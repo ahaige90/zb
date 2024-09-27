@@ -1,0 +1,91 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://live.fanmingming.com/tv/揭阳综合.png" group-title="广东频道",揭阳综合
+http://121.32.204.88:9999/rtp/239.77.0.229:5146$1920x1080
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://live.fanmingming.com/tv/揭阳综合.png" group-title="广东频道",揭阳综合
+http://113.93.48.205:2000/rtp/239.77.0.229:5146$1920x1080
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://live.fanmingming.com/tv/揭阳综合.png" group-title="广东频道",揭阳综合
+http://113.67.165.237:8888/rtp/239.77.0.229:5146$1920x1080
+#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://live.fanmingming.com/tv/揭阳生活.png" group-title="广东频道",揭阳生活
+http://113.93.48.205:2000/rtp/239.77.0.251:5146$1920x1080
+#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://live.fanmingming.com/tv/揭阳生活.png" group-title="广东频道",揭阳生活
+http://113.67.165.237:8888/rtp/239.77.0.251:5146$1920x1080
+#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://live.fanmingming.com/tv/揭阳生活.png" group-title="广东频道",揭阳生活
+http://121.32.204.88:9999/rtp/239.77.0.251:5146$1920x1080
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://live.fanmingming.com/tv/潮州综合.png" group-title="广东频道",潮州综合
+http://113.93.48.205:2000/rtp/239.253.43.70:5146$1920x1080
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://live.fanmingming.com/tv/潮州综合.png" group-title="广东频道",潮州综合
+http://113.67.165.237:8888/rtp/239.253.43.70:5146$1920x1080
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://live.fanmingming.com/tv/潮州综合.png" group-title="广东频道",潮州综合
+http://121.32.204.88:9999/rtp/239.253.43.70:5146$1920x1080
+#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://live.fanmingming.com/tv/潮州民生.png" group-title="广东频道",潮州民生
+http://113.93.48.205:2000/rtp/239.253.43.75:5146$1920x1080
+#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://live.fanmingming.com/tv/潮州民生.png" group-title="广东频道",潮州民生
+http://113.67.165.237:8888/rtp/239.253.43.75:5146$1920x1080
+#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://live.fanmingming.com/tv/潮州民生.png" group-title="广东频道",潮州民生
+http://121.32.204.88:9999/rtp/239.253.43.75:5146$1920x1080
+#EXTINF:-1 tvg-name="汕尾新闻" tvg-logo="https://live.fanmingming.com/tv/汕尾新闻.png" group-title="广东频道",汕尾新闻
+http://113.93.48.205:2000/rtp/239.77.0.25:5146$1920x1080
+#EXTINF:-1 tvg-name="汕尾新闻" tvg-logo="https://live.fanmingming.com/tv/汕尾新闻.png" group-title="广东频道",汕尾新闻
+http://113.67.165.237:8888/rtp/239.77.0.25:5146$1920x1080
+#EXTINF:-1 tvg-name="汕尾新闻" tvg-logo="https://live.fanmingming.com/tv/汕尾新闻.png" group-title="广东频道",汕尾新闻
+http://121.32.204.88:9999/rtp/239.77.0.25:5146$1920x1080
+#EXTINF:-1 tvg-name="汕尾文化" tvg-logo="https://live.fanmingming.com/tv/汕尾文化.png" group-title="广东频道",汕尾文化
+http://113.93.48.205:2000/rtp/239.77.0.187:5146$1920x1080
+#EXTINF:-1 tvg-name="汕尾文化" tvg-logo="https://live.fanmingming.com/tv/汕尾文化.png" group-title="广东频道",汕尾文化
+http://113.67.165.237:8888/rtp/239.77.0.187:5146$1920x1080
+#EXTINF:-1 tvg-name="汕尾文化" tvg-logo="https://live.fanmingming.com/tv/汕尾文化.png" group-title="广东频道",汕尾文化
+http://121.32.204.88:9999/rtp/239.77.0.187:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="广东频道",汕头综合
+http://jt.zorua.cn:8787/udp/239.253.43.45:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="广东频道",汕头综合
+http://lzjzyh.xyz:8888/udp/239.21.0.101:3744$1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="广东频道",汕头综合
+http://mail.bfgpay.cn:2052/udp/239.77.1.130:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="广东频道",汕头综合
+http://www.zzlag.top:9003/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="广东频道",汕头综合
+http://113.93.48.205:2000/rtp/239.253.43.45:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="广东频道",汕头综合
+http://113.67.165.237:8888/rtp/239.253.43.45:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="广东频道",汕头综合
+http://121.32.204.88:9999/rtp/239.253.43.45:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="广东频道",汕头综合
+http://jt.zorua.cn:8787/udp/239.253.43.30:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="广东频道",汕头综合
+http://jt.zorua.cn:8787/udp/239.77.1.130:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="广东频道",汕头经济
+http://113.93.48.205:2000/rtp/239.77.1.131:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="广东频道",汕头经济
+http://113.67.165.237:8888/rtp/239.77.1.131:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="广东频道",汕头经济
+http://121.32.204.88:9999/rtp/239.77.1.131:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="广东频道",汕头经济
+http://jt.zorua.cn:8787/udp/239.253.43.43:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="广东频道",汕头经济
+http://www.zzlag.top:9003/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="广东频道",汕头经济
+http://jt.zorua.cn:8787/udp/239.77.1.131:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="广东频道",汕头经济
+http://jt.zorua.cn:8787/udp/239.253.43.46:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="广东频道",汕头经济
+http://lzjzyh.xyz:8888/udp/239.21.0.102:3748$1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="广东频道",汕头经济
+http://mail.bfgpay.cn:2052/udp/239.77.1.131:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="广东频道",汕头文旅
+http://113.93.48.205:2000/rtp/239.77.1.132:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="广东频道",汕头文旅
+http://113.67.165.237:8888/rtp/239.77.1.132:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="广东频道",汕头文旅
+http://121.32.204.88:9999/rtp/239.77.1.132:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="广东频道",汕头文旅
+http://jt.zorua.cn:8787/udp/239.253.43.44:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="广东频道",汕头文旅
+http://lzjzyh.xyz:8888/udp/239.21.0.103:3752$1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="广东频道",汕头文旅
+http://mail.bfgpay.cn:2052/udp/239.77.1.132:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="广东频道",汕头文旅
+http://jt.zorua.cn:8787/udp/239.77.1.132:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="广东频道",汕头文旅
+http://jt.zorua.cn:8787/udp/239.253.43.47:5146$1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="广东频道",汕头文旅
+http://www.zzlag.top:9003/hls/49/index.m3u8
